@@ -30571,7 +30571,7 @@ $__System.register("1c", [], function (_export, _context) {
 
       _export("__useDefault", __useDefault);
 
-      _export("default", "<h1>My First Angular 2 App</h1>");
+      _export("default", "<h1>My First Angular 2 App in HANA!</h1>");
     }
   };
 });
